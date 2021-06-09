@@ -1,7 +1,7 @@
 module.exports = {
     async greeting(request, response) {
 
-        console.log("Endpoint /hello-docker is called!!!");
+        // console.log("Endpoint /hello-docker is called!!!");
     
         var hostName = process.env.HOSTNAME;
         
