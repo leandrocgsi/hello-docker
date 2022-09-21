@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController
 
 @RestController
 class DockerController {
-    
+
     @RequestMapping("/hello-docker")
     fun greeting(): HelloDocker {
 
