@@ -1,12 +1,12 @@
 package br.com.erudio
 
-import org.springframework.web.bind.annotation.RequestMapping
+import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
 
 @RestController
 class DockerController {
 
-    @RequestMapping("/hello-docker")
+    @GetMapping("/hello-docker")
     fun greeting(): HelloDocker {
 
         var hostName = System.getenv("HOSTNAME")
