@@ -1,4 +1,10 @@
-# [Formação Spring Boot 2026: do Zero ao Deploy na AWS e GCP com Java, Docker e Kubernetes](https://pub.erudio.com.br/formacao-spring-boot-2026-do-zero-ao-continuous-deployment-na-aws-e-gcp-com-java-docker-e-kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo-minicurso-docker)
+# 🎓 Docker Express: Domine os Conceitos Chave, Crie suas Próprias Docker Images e Suba seus Contêineres
+
+Aprenda Docker do absoluto zero: Dockerfiles, Docker Images, Containers, Registries, Repositories, Tags, Docker Hub, Arquitetura Docker (Client e Engine) e Gerenciamento Completo.
+
+Este repositório contém o código do curso bônus **Docker Express**, oferecido gratuitamente em alguns dos cursos premium da Erudio. Aqui você encontra uma introdução prática ao Docker em **4 linguagens diferentes**.
+
+[![Docker Express](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/09-docker.png)](https://pub.erudio.com.br/meus-cursos?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo-minicurso-docker)
 
 [![Formação Spring Boot 2026: do Zero ao Deploy na AWS e GCP com Java, Docker e Kubernetes](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/07-rest-java.png)](https://pub.erudio.com.br/formacao-spring-boot-2026-do-zero-ao-continuous-deployment-na-aws-e-gcp-com-java-docker-e-kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo-minicurso-docker)
 [![Formação ASP.NET 2026: do Zero ao Deploy na Azure e GCP com .NET 10, Docker e Kubernetes](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/01-rest-asp-net.png)](https://pub.erudio.com.br/asp-net-2026-do-0-a-azure-e-gcp-com-asp-net-10-docker-e-kubernetes?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo-minicurso-docker)
